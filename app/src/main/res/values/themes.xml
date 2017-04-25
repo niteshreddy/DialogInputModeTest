@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme.Testtheme" parent="Base.Theme.AppCompat.Dialog.FixedSize">
+        <item name="windowFixedWidthMajor">1200dp</item>
+        <item name="windowFixedWidthMinor">1200dp</item>
+        <item name="windowFixedHeightMinor">1200dp</item>
+        <item name="windowFixedHeightMajor">1200dp</item>
+    </style>
+
+
+</resources>
