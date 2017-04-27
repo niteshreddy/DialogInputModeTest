@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+
+    <item name="abc_dialog_fixed_height_major_1" type="dimen">83%</item> <!-- major portrait -->
+    <item name="abc_dialog_fixed_height_minor_1" type="dimen">95%</item> <!-- minor landscape -->
+    <item name="abc_dialog_fixed_width_major_1" type="dimen">83%</item>
+    <item name="abc_dialog_fixed_width_minor_1" type="dimen">83%</item>
+
+</resources>

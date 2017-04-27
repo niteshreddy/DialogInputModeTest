@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <style name="AppTheme.Testtheme" parent="Base.Theme.AppCompat.Dialog.FixedSize">
-        <item name="windowFixedWidthMajor">1200dp</item>
-        <item name="windowFixedWidthMinor">1200dp</item>
-        <item name="windowFixedHeightMinor">1200dp</item>
-        <item name="windowFixedHeightMajor">1200dp</item>
+    <style name="AppTheme.Testtheme" parent="Base.Theme.AppCompat.Light.DialogWhenLarge">
+
+        <item name="windowFixedWidthMajor">@dimen/abc_dialog_fixed_width_major_1</item>
+        <item name="windowFixedWidthMinor">@dimen/abc_dialog_fixed_width_major_1</item>
+        <item name="windowFixedHeightMajor">@dimen/abc_dialog_fixed_height_major_1</item>
+        <item name="windowFixedHeightMinor">@dimen/abc_dialog_fixed_height_minor_1</item>
+
+        <item name="android:windowMinWidthMajor">@dimen/abc_dialog_fixed_width_major_1</item>
+        <item name="android:windowMinWidthMinor">@dimen/abc_dialog_fixed_width_minor_1</item>
     </style>
 
 
